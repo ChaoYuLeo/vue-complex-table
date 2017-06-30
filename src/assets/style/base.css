@@ -1,0 +1,78 @@
+
+/*visivility*/
+.ishide {
+	visivility: hidden !important;
+}
+
+/*z-index*/
+.z-index-a {z-index:100;}
+.z-index-b {z-index:-100;}
+.z-index-c {z-index:300;}
+
+
+/*border-radius*/
+.border-radius-5 {border-radius: 5%;}
+.border-radius-10 {border-radius: 10%;}
+.border-radius-15 {border-radius: 15%;}
+.border-radius-20 {border-radius: 20%;}
+
+/*font-size*/
+.font-s-12 {font-size: .75rem;}
+.font-s-14 {font-size: .9rem;}
+.font-s-16 {font-size: 0.975rem;}
+.font-s-18 {font-size: 1.05rem;}
+.font-s-20 {font-size: 1.125rem;}
+
+/*padding-top*/
+.padding-t-5 {padding-top: 0.417rem;}
+.padding-t-10 {padding-top: 0.834rem;}
+.padding-t-15 {padding-top: 1.25rem;}
+.padding-t-20 {padding-top: 1.25rem;}
+
+/*padding-right*/
+.padding-r-5 {padding-right: 0.417rem;}
+.padding-r-10 {padding-right: 0.834rem;}
+.padding-r-15 {padding-right: 1.25rem;}
+.padding-r-20 {padding-right: 1.67rem;}
+
+/*padding-bottom*/
+.padding-b-5 {padding-bottom: 0.417rem;}
+.padding-b-10 {padding-bottom: 0.834rem;}
+.padding-b-15 {padding-bottom: 1.25rem;}
+.padding-b-20 {padding-bottom: 1.67rem;}
+
+/*padding-left*/
+.padding-l-5 {padding-left: 0.417rem;}
+.padding-l-10 {padding-left: 0.834rem;}
+.padding-l-15 {padding-left: 1.25rem;}
+.padding-l-20 {padding-left: 1.67rem;}
+
+/*margin 居中*/
+.margin-10 {margin: 0.834rem auto}
+.margin-20 {margin: 1.67rem auto}
+.margin-40 {margin: 3.33rem auto}
+.margin-50 {margin: 4.17rem auto}
+
+/*margin-top*/
+.margin-t-5 {margin-top: 0.417rem;}
+.margin-t-10 {margin-top: 0.834rem;}
+.margin-t-15 {margin-top: 1.25rem;}
+.margin-t-20 {margin-top: 1.67rem;}
+
+/*margin-right*/
+.margin-r-5 {margin-right: 0.417rem;}
+.margin-r-10 {margin-right: 0.834rem;}
+.margin-r-15 {margin-right: 1.25rem;}
+.margin-r-20 {margin-right: 1.67rem;}
+
+/*margin-bottom*/
+.margin-b-5 {margin-bottom: 0.417rem;}
+.margin-b-10 {margin-bottom: 0.834rem;}
+.margin-b-15 {margin-bottom: 1.25rem;}
+.margin-b-20 {margin-bottom: 1.67rem;}
+
+/*margin-left*/
+.margin-l-5 {margin-left: 0.417rem;}
+.margin-l-10 {margin-left: 0.834rem;}
+.margin-l-15 {margin-left: 1.25rem;}
+.margin-l-20 {margin-left: 1.67rem;}

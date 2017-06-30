@@ -1,0 +1,41 @@
+
+/*
+左右浮动
+ */
+.pull-left { float: left;}
+
+.pull-right { float: right;}
+
+
+/*
+清除浮动
+ */
+.clearfix:before, .clearfix:after {
+  content:"";
+  display:table;
+}
+
+.clearfix:after { clear: both;}
+
+.clearfix { *zoom:1;}
+
+
+/*
+定位
+ */
+.position-relative { position: relative;}
+
+.position-absolute { position: absolute;}
+
+.position-fixed { position: fixed;}
+
+.pointer {
+  cursor: pointer;
+}
+
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
